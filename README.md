@@ -1,6 +1,7 @@
 # List_Utils_C
 
-Quelques fonctions utilitaires pour des listes doublement chainee en C
+Quelques fonctions utilitaires pour des listes doublement chainee en C.<br>
+Garanti valgrind proof + norme.
 
 ## List int
 
