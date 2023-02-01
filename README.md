@@ -21,3 +21,7 @@ Contient aussi toute les fonctions utilisees dans int et str.
 - addtop : pour ajouter au debut.
 - insert : pour inserer a l'index souhaiter.
 - len_list : pour recuperer la longueur de la liste chainee.
+
+## Print_list
+
+Elles ne sont la que pour le debug, puisqu'elles utilisent la fonction printf, il faudra les modifier pour passer les evals.
