@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strdup.c                                        :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: echapus <echapus@student.42.fr>            +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/22 09:49:27 by echapus           #+#    #+#             */
-/*   Updated: 2022/11/09 13:54:42 by echapus          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "list_str.h"
 
 char	*ft_strdup(const char *src)
@@ -29,9 +17,3 @@ char	*ft_strdup(const char *src)
 	new[i] = '\0';
 	return (new);
 }
-
-// int main(void)
-// {
-	// printf("%s\n", ft_strdup("une chaine de characteres."));
-	// return 0;
-// }
